@@ -13,7 +13,7 @@ In order to use the dictionary feature properly, follow the following steps:
 1) Initialize Pytesseract by following the following tutorials:
    i)For Windows: https://www.youtube.com/watch?v=DG5D8A3zi4o&t=2s&pp=ygUbaW5zdGFsbCBweXRlc3NlcmFjdCB3aW5kb3dz
 2) Open up the file labelled 'dictionary.py' and replace "Your Account" with your account's username in line 22.
-   <img width="831" alt="image" src="https://github.com/Rahbir1518/Notebook/assets/149626522/ee58b8cb-6988-4dea-b571-42fddfa428aa">
+   <img width="824" alt="Screenshot 2023-11-01 180752" src="https://github.com/Rahbir1518/Notebook/assets/149626522/19664d27-1fbb-43fe-9baf-e53a01624b4c">
 
 4) Create a folder in your "C" drive and label it 'SS'. This will be the primary folder where you can store screenshots.
    **NOTE:** Once you click on the "Convert image to string?" button, the program will automatically delete the screenshot from the folder to ensure that the screenshots do                 not accumulate and clog up space.
